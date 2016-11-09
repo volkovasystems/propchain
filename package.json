@@ -1,0 +1,32 @@
+{
+  "name": "propchain",
+  "version": "0.0.0",
+  "description": "Smart deep list of object properties.",
+  "main": "propchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/propchain.git"
+  },
+  "keywords": [
+    "smart",
+    "deep",
+    "list",
+    "object",
+    "property",
+    "propchain"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/propchain/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/propchain#readme",
+  "dependencies": {
+    "plough": "^0.1.0",
+    "proplist": "^0.2.0",
+    "protease": "^0.1.0"
+  }
+}
